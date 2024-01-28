@@ -39,7 +39,7 @@
 - You may install the necessary libraries using the command below:
 
   ```
-  pip install -r requirements
+  pip install discord requests
   ```
 
 - You could also Install the necessary requirements using the existing Installation.bat file aswell.
