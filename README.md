@@ -5,15 +5,21 @@
   <img src="https://img.shields.io/github/issues/thegeeklucas/Discord-Webhook-Checker?color=red&style=for-the-badge">
 </p>
 
-<h1 align="center">Open-Source Discord Webhook Checker</h1>
+<h1 align="center">Open-Source Discord Webhook</h1>
 
-<p align="center"><b>An Open-Source Discord Webhook Checker tool with several features included.</b></p>
+<p align="center"><b>An Open-Source Discord Generator, Which Allows You to Generate any Kind of Service Inside the Specific Stocks.</b></p>
 
 ##
 
 <h3><p align="center">Disclaimer</p></h3>
 
 </i><p><i>Disclaimer: <b>I am not responsible</b> for any recreation or use of this code in any further development that may lead to harmful or dangerous actions. </p></i>
+
+##
+
+<h3 align="center">Preview</h3>
+  <img src="github/Preview1.png">
+  <img src="github/Preview.png">
 
 ##
 
@@ -33,8 +39,10 @@
 - You may install the necessary libraries using the command below:
 
   ```
-  pip install discord requests
+  pip install -r requirements
   ```
 
-
 - You could also Install the necessary requirements using the existing Installation.bat file aswell.
+  
+<img src="github/Install.png">
+##
