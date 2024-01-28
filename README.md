@@ -33,7 +33,7 @@
 - You may install the necessary libraries using the command below:
 
   ```
-  pip install -r requirements.txt
+  pip install discord requests
   ```
 
 
