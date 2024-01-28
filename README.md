@@ -5,9 +5,9 @@
   <img src="https://img.shields.io/github/issues/thegeeklucas/Discord-Webhook-Checker?color=red&style=for-the-badge">
 </p>
 
-<h1 align="center">Open-Source Discord Webhook</h1>
+<h1 align="center">Open-Source Discord Webhook Checker</h1>
 
-<p align="center"><b>An Open-Source Discord Generator, Which Allows You to Generate any Kind of Service Inside the Specific Stocks.</b></p>
+<p align="center"><b>An Open-Source Discord Checker with several features Included.</b></p>
 
 ##
 
